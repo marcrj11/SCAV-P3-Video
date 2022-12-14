@@ -16,11 +16,19 @@ Those steps were followed:
 
 This exercice was done by using the bento4 tools mp4fragment and mp4dash
 
+Fragmentation:
+
 ![Image](fragmentation_of_viedo.png)
+
+Dash and encrytion: 
+
+![Image](encrypt_and_dash.png)
 
 # Exercici 3
 
 Source: https://trac.ffmpeg.org/wiki/StreamingGuide
+
+![Image](livestream_bbb.png)
 
 # Exercici 4
 
