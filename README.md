@@ -16,7 +16,7 @@ Those steps were followed:
 
 This exercice was done by using the bento4 tools mp4fragment and mp4dash
 
-![Image](fragmentation_of_viedo.jpg)
+![Image](fragmentation_of_viedo.png)
 
 # Exercici 3
 
