@@ -40,7 +40,12 @@ Source: https://trac.ffmpeg.org/wiki/StreamingGuide
 
 # Exercici 4
 
-rtve.es live was analyzed for this exercice:
+Rtve.es live was analyzed for this exercice:
+
+I found that the streaming protocol used was HLS as it had .m3u8 and .ts files to livestream.
 
 ![Image](DevTools_La1Stream.png)
+
+I also analyzed one .ts segment in order to see the video codec that were used and I found that it uses h264 and aac codecs.
+
 ![Image](La1stream_fragment_info.png)
