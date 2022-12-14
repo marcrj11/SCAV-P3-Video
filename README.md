@@ -13,3 +13,16 @@ Those steps were followed:
 6 - Create a master playlist that points to each of the variants
 
 # Exercici 2 
+
+This exercice was done by using the bento4 tools mp4fragment and mp4dash
+
+![Image](fragmentation_of_viedo.jpg)
+
+# Exercici 3
+
+Source: https://trac.ffmpeg.org/wiki/StreamingGuide
+
+# Exercici 4
+
+rtve.es live was analyzed for this exercice
+
